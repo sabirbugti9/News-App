@@ -1,0 +1,268 @@
+
+{
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "اليوم السابع",
+      "title": "مصر تحصل 14% ضريبة قيمة مضافة من مبيعات تطبيقات أبل.. والبداية من 25 يوليو - اليوم السابع",
+      "description": null,
+      "url":
+      "https://news.google.com/rss/articles/CBMiowJodHRwczovL3d3dy55b3VtNy5jb20vc3RvcnkvMjAyMy83LzEzLyVEOSU4NSVEOCVCNSVEOCVCMS0lRDglQUElRDglQUQlRDglQjUlRDklODQtMTQtJUQ4JUI2JUQ4JUIxJUQ5JThBJUQ4JUE4JUQ4JUE5LSVEOSU4MiVEOSU4QSVEOSU4NSVEOCVBOS0lRDklODUlRDglQjYlRDglQTclRDklODElRDglQTktJUQ5JTg1JUQ5JTg2LSVEOSU4NSVEOCVBOCVEOSU4QSVEOCVCOSVEOCVBNyVEOCVBQS0lRDglQUElRDglQjclRDglQTglRDklOEElRDklODIlRDglQTclRDglQUEtJUQ4JUEzJUQ4JUE4JUQ5JTg0LzYyNDA3OTnSAZ8CaHR0cHM6Ly9tLnlvdW03LmNvbS9hbXAvMjAyMy83LzEzLyVEOSU4NSVEOCVCNSVEOCVCMS0lRDglQUElRDglQUQlRDglQjUlRDklODQtMTQtJUQ4JUI2JUQ4JUIxJUQ5JThBJUQ4JUE4JUQ4JUE5LSVEOSU4MiVEOSU4QSVEOSU4NSVEOCVBOS0lRDklODUlRDglQjYlRDglQTclRDklODElRDglQTktJUQ5JTg1JUQ5JTg2LSVEOSU4NSVEOCVBOCVEOSU4QSVEOCVCOSVEOCVBNyVEOCVBQS0lRDglQUElRDglQjclRDglQTglRDklOEElRDklODIlRDglQTclRDglQUEtJUQ4JUEzJUQ4JUE4JUQ5JTg0LzYyNDA3OTk?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-07-13T12:39:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "السعودية Investing.comالسعودية Investing.com",
+      "title": "عاجل: صدور بيانات التضخم وإعانات البطالة الأمريكية مخالفةً للتوقعات بواسطة Investing.com - السعودية Investing.comالسعودية Investing.com",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vc2EuaW52ZXN0aW5nLmNvbS9uZXdzL2Vjb25vbWljLWluZGljYXRvcnMvYXJ0aWNsZS0yNDM1Nzg20gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-07-13T12:32:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "العربية",
+      "title": "صناديق عالمية تتخلص من الذهب.. ماذا يحدث للمعدن النفيس؟ - العربية",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMi0QJodHRwczovL3d3dy5hbGFyYWJpeWEubmV0L2Fzd2FxL3NwZWNpYWwtc3Rvcmllcy8yMDIzLzA3LzEzLyVEOCVCNSVEOSU4NiVEOCVBNyVEOCVBRiVEOSU4QSVEOSU4Mi0lRDglQjklRDglQTclRDklODQlRDklODUlRDklOEElRDglQTktJUQ4JUFBJUQ4JUFBJUQ4JUFFJUQ5JTg0JUQ4JUI1LSVEOSU4NSVEOSU4Ni0lRDglQTclRDklODQlRDglQjAlRDklODclRDglQTgtJUQ5JTg1JUQ4JUE3JUQ4JUIwJUQ4JUE3LSVEOSU4QSVEOCVBRCVEOCVBRiVEOCVBQi0lRDklODQlRDklODQlRDklODUlRDglQjklRDglQUYlRDklODYtJUQ4JUE3JUQ5JTg0JUQ5JTg2JUQ5JTgxJUQ5JThBJUQ4JUIzJUQ4JTlG0gHVAmh0dHBzOi8vd3d3LmFsYXJhYml5YS5uZXQvYW1wL2Fzd2FxL3NwZWNpYWwtc3Rvcmllcy8yMDIzLzA3LzEzLyVEOCVCNSVEOSU4NiVEOCVBNyVEOCVBRiVEOSU4QSVEOSU4Mi0lRDglQjklRDglQTclRDklODQlRDklODUlRDklOEElRDglQTktJUQ4JUFBJUQ4JUFBJUQ4JUFFJUQ5JTg0JUQ4JUI1LSVEOSU4NSVEOSU4Ni0lRDglQTclRDklODQlRDglQjAlRDklODclRDglQTgtJUQ5JTg1JUQ4JUE3JUQ4JUIwJUQ4JUE3LSVEOSU4QSVEOCVBRCVEOCVBRiVEOCVBQi0lRDklODQlRDklODQlRDklODUlRDglQjklRDglQUYlRDklODYtJUQ4JUE3JUQ5JTg0JUQ5JTg2JUQ5JTgxJUQ5JThBJUQ4JUIzJUQ4JTlG?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-07-13T11:53:33Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "الإمارات اليوم",
+      "title": "هبوط اضراري لطائرة ركاب بسبب «مسافر مدلل» - الإمارات اليوم",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LmVtYXJhdGFseW91bS5jb20vbGlmZS9mb3VyLXNpZGVzLzIwMjMtMDctMTMtMS4xNzY2NTky0gFVaHR0cHM6Ly93d3cuZW1hcmF0YWx5b3VtLmNvbS9saWZlL2ZvdXItc2lkZXMvMjAyMy0wNy0xMy0xLjE3NjY1OTI_b3Q9b3QuQU1QUGFnZUxheW91dA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-07-13T11:36:15Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Al Masry Al Youm - المصري اليوم",
+      "title": "قرض شخصي بدون ضامن.. 1.5 مليون جنيه بفترة سداد تصل لـ10 سنوات (تفاصيل) - Al Masry Al Youm - المصري اليوم",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3LmFsbWFzcnlhbHlvdW0uY29tL25ld3MvZGV0YWlscy8yOTMyNjM00gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-07-13T11:34:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Sky News Arabia سكاي نيوز عربية",
+      "title": "غوغل تطرح تطبيق تشات \"بوت بارد\" باللغة العربية في هذه الدول - Sky News Arabia سكاي نيوز عربية",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiyAJodHRwczovL3d3dy5za3luZXdzYXJhYmlhLmNvbS90ZWNobm9sb2d5LzE2MzY4NTItJUQ4JUJBJUQ5JTg4JUQ4JUJBJUQ5JTg0LSVEOCVBQSVEOCVCNyVEOCVCMSVEOCVBRC0lRDglQUElRDglQjclRDglQTglRDklOEElRDklODItJUQ4JUFBJUQ4JUI0JUQ4JUE3JUQ4JUFBLSVEOCVBOCVEOSU4OCVEOCVBQS0lRDglQTglRDglQTclRDglQjElRDglQUYtJUQ4JUE4JUQ4JUE3JUQ5JTg0JUQ5JTg0JUQ4JUJBJUQ4JUE5LSVEOCVBNyVEOSU4NCVEOCVCOSVEOCVCMSVEOCVBOCVEOSU4QSVEOCVBOS0lRDklODclRDglQjAlRDklODctJUQ4JUE3JUQ5JTg0JUQ4JUFGJUQ5JTg4JUQ5JTg00gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-07-13T10:54:41Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Masrawy - مصراوي",
+      "title": "منها الأهلي ومصر.. شروط فتح الحسابات المصرفية بالدولار في 5 بنوك - Masrawy - مصراوي",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMigQNodHRwczovL3d3dy5tYXNyYXd5LmNvbS9uZXdzL25ld3MtYmFua2luZy9kZXRhaWxzLzIwMjMvNy8xMy8yNDQwODEyLyVEOSU4NSVEOSU4NiVEOSU4NyVEOCVBNy0lRDglQTclRDklODQlRDglQTMlRDklODclRDklODQlRDklOEEtJUQ5JTg4JUQ5JTg1JUQ4JUI1JUQ4JUIxLSVEOCVCNCVEOCVCMSVEOSU4OCVEOCVCNy0lRDklODElRDglQUElRDglQUQtJUQ4JUE3JUQ5JTg0JUQ4JUFEJUQ4JUIzJUQ4JUE3JUQ4JUE4JUQ4JUE3JUQ4JUFBLSVEOCVBNyVEOSU4NCVEOSU4NSVEOCVCNSVEOCVCMSVEOSU4MSVEOSU4QSVEOCVBOS0lRDglQTglRDglQTclRDklODQlRDglQUYlRDklODglRDklODQlRDglQTclRDglQjEtJUQ5JTgxJUQ5JThBLTUtJUQ4JUE4JUQ5JTg2JUQ5JTg4JUQ5JTgz0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-07-13T10:26:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "اليوم السابع",
+      "title": "انخفاض الدولار عالمياً يدفع الذهب لأعلى مستوى خلال شهر - اليوم السابع",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiygJodHRwczovL3d3dy55b3VtNy5jb20vc3RvcnkvMjAyMy83LzEzLyVEOCVBNyVEOSU4NiVEOCVBRSVEOSU4MSVEOCVBNyVEOCVCNi0lRDglQTclRDklODQlRDglQUYlRDklODglRDklODQlRDglQTclRDglQjEtJUQ4JUI5JUQ4JUE3JUQ5JTg0JUQ5JTg1JUQ5JThBJUQ4JUE3JUQ5JThCLSVEOSU4QSVEOCVBRiVEOSU4MSVEOCVCOS0lRDglQTclRDklODQlRDglQjAlRDklODclRDglQTgtJUQ5JTg0JUQ4JUEzJUQ4JUI5JUQ5JTg0JUQ5JTg5LSVEOSU4NSVEOCVCMyVEOCVBQSVEOSU4OCVEOSU4OS0lRDglQUUlRDklODQlRDglQTclRDklODQtJUQ4JUI0JUQ5JTg3JUQ4JUIxLzYyNDA1MTfSAcYCaHR0cHM6Ly9tLnlvdW03LmNvbS9hbXAvMjAyMy83LzEzLyVEOCVBNyVEOSU4NiVEOCVBRSVEOSU4MSVEOCVBNyVEOCVCNi0lRDglQTclRDklODQlRDglQUYlRDklODglRDklODQlRDglQTclRDglQjEtJUQ4JUI5JUQ4JUE3JUQ5JTg0JUQ5JTg1JUQ5JThBJUQ4JUE3JUQ5JThCLSVEOSU4QSVEOCVBRiVEOSU4MSVEOCVCOS0lRDglQTclRDklODQlRDglQjAlRDklODclRDglQTgtJUQ5JTg0JUQ4JUEzJUQ4JUI5JUQ5JTg0JUQ5JTg5LSVEOSU4NSVEOCVCMyVEOCVBQSVEOSU4OCVEOSU4OS0lRDglQUUlRDklODQlRDglQTclRDklODQtJUQ4JUI0JUQ5JTg3JUQ4JUIxLzYyNDA1MTc?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-07-13T10:14:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Al Masry Al Youm - المصري اليوم",
+      "title": "الآن.. سعر الذهب اليوم الخميس 13 يوليو 2023 بمنتصف تعاملات الصاغة - Al Masry Al Youm - المصري اليوم",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3LmFsbWFzcnlhbHlvdW0uY29tL25ld3MvZGV0YWlscy8yOTMyNDk10gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-07-13T09:07:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "السعودية Investing.comالسعودية Investing.com",
+      "title": "سقوط الدولار بعد بيانات مفاجئة ومكاسب للجنيه الاسترليني رغم انخفاض الناتج المحلي بواسطة Investing.com - السعودية Investing.comالسعودية Investing.com",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vc2EuaW52ZXN0aW5nLmNvbS9uZXdzL2ZvcmV4LW5ld3MvYXJ0aWNsZS0yNDM1NjI50gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-07-13T08:50:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "السعودية Investing.comالسعودية Investing.com",
+      "title": "عاجل: النفط ينتعش بعد بيانات هامة قد تغير موقف الفيدرالي من الفائدة بواسطة Investing.com - السعودية Investing.comالسعودية Investing.com",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vc2EuaW52ZXN0aW5nLmNvbS9uZXdzL2NvbW1vZGl0aWVzLW5ld3MvYXJ0aWNsZS0yNDM1NjQw0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-07-13T08:40:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "جريدة المال",
+      "title": "«نعيم» توصي بشراء سهم «أبو قير» في البورصة المصرية بسعر مستهدف 55.50 جنيه - جريدة المال",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMixgFodHRwczovL2FsbWFsbmV3cy5jb20vJUQ5JTg2JUQ4JUI5JUQ5JThBJUQ5JTg1LSVEOCVBQSVEOSU4OCVEOCVCNSVEOSU4QS0lRDglQTglRDglQjQlRDglQjElRDglQTclRDglQTEtJUQ4JUIzJUQ5JTg3JUQ5JTg1LSVEOCVBMyVEOCVBOCVEOSU4OC0lRDklODIlRDklOEElRDglQjEtJUQ5JTgxJUQ5JThBLSVEOCVBNyVEOSU4NCVEOCVBOCVEOSU4OC_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-07-13T08:28:19Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "اليوم السابع",
+      "title": "سعر الدولار الآن أمام الجنيه المصرى - اليوم السابع",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMi5wFodHRwczovL3d3dy55b3VtNy5jb20vc3RvcnkvMjAyMy83LzEzLyVEOCVCMyVEOCVCOSVEOCVCMS0lRDglQTclRDklODQlRDglQUYlRDklODglRDklODQlRDglQTclRDglQjEtJUQ4JUE3JUQ5JTg0JUQ4JUEyJUQ5JTg2LSVEOCVBMyVEOSU4NSVEOCVBNyVEOSU4NS0lRDglQTclRDklODQlRDglQUMlRDklODYlRDklOEElRDklODctJUQ4JUE3JUQ5JTg0JUQ5JTg1JUQ4JUI1JUQ4JUIxJUQ5JTg5LzYyNDAzMDPSAeMBaHR0cHM6Ly9tLnlvdW03LmNvbS9hbXAvMjAyMy83LzEzLyVEOCVCMyVEOCVCOSVEOCVCMS0lRDglQTclRDklODQlRDglQUYlRDklODglRDklODQlRDglQTclRDglQjEtJUQ4JUE3JUQ5JTg0JUQ4JUEyJUQ5JTg2LSVEOCVBMyVEOSU4NSVEOCVBNyVEOSU4NS0lRDglQTclRDklODQlRDglQUMlRDklODYlRDklOEElRDklODctJUQ4JUE3JUQ5JTg0JUQ5JTg1JUQ4JUI1JUQ4JUIxJUQ5JTg5LzYyNDAzMDM?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-07-13T08:12:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "الأسبوع",
+      "title": "مصادر من الصرافة المصرية تتوقع اتجاه الدولار في السوق المحلي - الأسبوع",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiIWh0dHBzOi8vd3d3LmVsYW9zYm9hLmNvbS8xMDEwNTE5L9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-07-13T08:02:38Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "السعودية Investing.comالسعودية Investing.com",
+      "title": "الفيدرالي: استعدوا لفائدة مرتفعة.. ودائع البنوك ستهرب وأزمة مصرفية في الأفق بواسطة Investing.com - السعودية Investing.comالسعودية Investing.com",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vc2EuaW52ZXN0aW5nLmNvbS9uZXdzL2Vjb25vbXkvYXJ0aWNsZS0yNDM1NjQ20gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-07-13T07:40:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Sada El-Bald صدى البلد",
+      "title": "الدولار يسقط بقوة.. الأخضر يتراجع لأدنى نقطة منذ 15 شهرا - Sada El-Bald صدى البلد",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiIGh0dHBzOi8vd3d3LmVsYmFsYWQubmV3cy81ODQyODU50gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-07-13T07:21:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "السعودية Investing.comالسعودية Investing.com",
+      "title": "عاجل: الذهب عند قمة شهر.. والأسعار بين 1800 و2000 دولار فإلى أين سينطلق؟ بواسطة Investing.com - السعودية Investing.comالسعودية Investing.com",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vc2EuaW52ZXN0aW5nLmNvbS9uZXdzL2NvbW1vZGl0aWVzLW5ld3MvYXJ0aWNsZS0yNDM1NjE50gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-07-13T06:55:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "الأسبوع",
+      "title": "أسعار الحديد والأسمنت اليوم الخميس 13 يوليو 2023 |تفاصيل - الأسبوع",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiIWh0dHBzOi8vd3d3LmVsYW9zYm9hLmNvbS8xMDEwMzg2L9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-07-13T06:34:22Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "اقتصاد سكاي نيوز عربية",
+      "title": "تتويج الملك يدفع الاقتصاد البريطاني إلى الانكماش في مايو - اقتصاد سكاي نيوز عربية",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMitAJodHRwczovL3d3dy5zbmFidXNpbmVzcy5jb20vYXJ0aWNsZS8xNjM2NzYzLSVEOCVBQSVEOCVBQSVEOSU4OCVEOSU4QSVEOCVBQy0lRDglQTclRDklODQlRDklODUlRDklODQlRDklODMtJUQ5JThBJUQ4JUFGJUQ5JTgxJUQ4JUI5LSVEOCVBNyVEOSU4NCVEOCVBNyVEOSU4MiVEOCVBQSVEOCVCNSVEOCVBNyVEOCVBRi0lRDglQTclRDklODQlRDglQTglRDglQjElRDklOEElRDglQjclRDglQTclRDklODYlRDklOEEtJUQ4JUE3JUQ5JTg0JUQ4JUE3JUQ5JTg2JUQ5JTgzJUQ5JTg1JUQ4JUE3JUQ4JUI0LSVEOSU4NSVEOCVBNyVEOSU4QSVEOSU4ONIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-07-13T06:33:45Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "المساء سبورت",
+      "title": "عروض بيم الجديدة لشهر يوليو 2023 احصل عليها بعد الخصم - المساء الاخباري - المساء سبورت",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiuAFodHRwczovL3d3dy5hbG1lc2FzcG9ydHMuY29tLzExNTQxMC8lRDglQjklRDglQjElRDklODglRDglQjYtJUQ4JUE4JUQ5JThBJUQ5JTg1LSVEOCVBNyVEOSU4NCVEOCVBQyVEOCVBRiVEOSU4QSVEOCVBRiVEOCVBOS0lRDklODQlRDglQjQlRDklODclRDglQjEtJUQ5JThBJUQ5JTg4JUQ5JTg0JUQ5JThBJUQ5JTg4LTIwMjMv0gG8AWh0dHBzOi8vd3d3LmFsbWVzYXNwb3J0cy5jb20vMTE1NDEwLyVEOCVCOSVEOCVCMSVEOSU4OCVEOCVCNi0lRDglQTglRDklOEElRDklODUtJUQ4JUE3JUQ5JTg0JUQ4JUFDJUQ4JUFGJUQ5JThBJUQ4JUFGJUQ4JUE5LSVEOSU4NCVEOCVCNCVEOSU4NyVEOCVCMS0lRDklOEElRDklODglRDklODQlRDklOEElRDklODgtMjAyMy9hbXAv?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-07-13T06:08:04Z",
+      "content": null
+    }
+  ]
+}
